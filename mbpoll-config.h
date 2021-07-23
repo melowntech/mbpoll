@@ -20,7 +20,7 @@ extern "C" {
 #endif
 
 /* constants ================================================================ */
-#define RTU_SLAVEADDR_MIN 1
+#define RTU_SLAVEADDR_MIN 0
 #define TCP_SLAVEADDR_MIN 0
 #define SLAVEADDR_MAX     255
 #define STARTREF_MIN      1
